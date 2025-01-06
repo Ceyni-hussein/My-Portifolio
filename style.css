@@ -80,15 +80,18 @@ span{
 }
 .home-content h3{
     font-size: 42px;
+    display: block;
 }
 .home-content h1{
     font-size: 62px;
     line-height: 1.2;
+    display: block;
 
 }
 .home-content p{
     font-size: 18px;
     margin: 25px 0  30px;
+    display: block;
 }
 .btn-box{
     width: 345px;
@@ -272,6 +275,7 @@ footer .copyright{
     padding: 0;
     margin: 0;
 }
+
 @media(max-width: 768px){
     .navbar{
         display: none;
