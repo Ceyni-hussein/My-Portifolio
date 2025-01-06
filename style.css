@@ -204,7 +204,7 @@ span{
     bottom: 0;
     width: 100%;
     padding: 40px 0;
-    background-color: black;
+    background-color: orangered;
 }
 .footer .social{
     text-align: center;
@@ -289,20 +289,82 @@ footer .copyright{
     }
     .home h3{
         font-size: 2em;
-        padding-top: 28%;
+        padding-top: 35%;
+        padding-left: 2%;
     }
     .home h1{
         font-size: 3em;
         padding-top: 4%;
+        padding-left: 2%;
+        
     }
     .home p{
         font-size: 25px;
         padding-right: 5%;
+        padding-left: 5%;
     }
-    .home-content btn-box{
+    .btn-box{
         display: none;
     }
     .img-box{
-        width: 250;
+        width: 100%;
+        padding-bottom: 20%;
+    }
+    .home{
+        display: none;
+        padding: 2px;
+        font-size: 14px;
+    }
+    .home img{
+        width: 100%;
+        margin-top: 1px;
+    }
+    .home{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        
+    }
+    .about-content h3{
+        padding-left: 6%;
+    }
+    .about-content h2{
+        padding-left: 6%;
+    }
+    .about-content p{
+        padding-left: 6%;
+    }
+    .btn2{
+        display: none;
+    }
+    .about{
+        display: none;
+        padding: 10px;
+        font-size: 14px;
+    }
+    .about img{
+        width: 100%;
+        margin-top: 80px;
+    }
+    .about{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    
+    }
+    .content-form{
+        display: none;
+        padding: 10px 40px;
+        font-size: 14px;
+        
+    }
+    .content-forms{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        
+        
     }
 }
+
