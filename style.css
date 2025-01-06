@@ -280,27 +280,29 @@ footer .copyright{
         display: none;
     }
     .logo{
-        padding-left: 2%;
+        padding-left: 0%;
         font-size: 2em;
         font-weight: 900;
+        
     }
     #bar{
         display: block;
+        padding-right: 2px;
     }
     .home h3{
         font-size: 2em;
         padding-top: 35%;
-        padding-left: 2%;
+        padding-left: 10%;
     }
     .home h1{
         font-size: 3em;
         padding-top: 4%;
-        padding-left: 2%;
+        padding-left: 5%;
         
     }
     .home p{
         font-size: 25px;
-        padding-right: 5%;
+        padding-right: 10%;
         padding-left: 5%;
     }
     .btn-box{
@@ -355,7 +357,7 @@ footer .copyright{
     }
     .content-form{
         display: none;
-        padding: 10px 40px;
+        padding: 10px 30px;
         font-size: 14px;
         
     }
